@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import logo from '../../assets/images/logo.png';
+import logo from '../../assets/images/covid2.png';
 import { Menu, Drawer, Button } from 'antd';
 import { Link } from 'react-router-dom';
 import { MenuOutlined } from '@ant-design/icons';
@@ -21,7 +21,7 @@ export default function AppHeader() {
         <div className="logo">
           <a href="/">
             <img src={logo} alt="" style={{ width: '32px' }} />
-            All about COVID
+            COVID NEWS
           </a>
         </div>
         <div className="mobileVisible">

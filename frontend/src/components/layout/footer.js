@@ -11,9 +11,9 @@ export default function AppFooter() {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://github.com/trunghuynh2304">
+            href="https://gitlab.com/19522353/covid-news">
             {' '}
-            Trung Huỳnh
+            19522353,19522115,19522071
           </a>
         </div>
         <BackTop>

@@ -6,6 +6,6 @@ export const COLORS = {
     orange: '#FA8C16',
     gray: '#B8B2D3',
     gray2: '#968ebe',
-    dark: '#403F63',
+    dark: '#a1a0de',
     dark2: '#51507c',
   };

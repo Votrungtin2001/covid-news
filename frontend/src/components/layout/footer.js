@@ -1,6 +1,7 @@
 import React from 'react';
 import { BackTop } from 'antd';
 import { UpCircleOutlined } from '@ant-design/icons';
+import MessengerCustomerChat from 'react-messenger-customer-chat';
 
 export default function AppFooter() {
   return (
@@ -21,6 +22,9 @@ export default function AppFooter() {
             <UpCircleOutlined />
           </div>
         </BackTop>
+        <MessengerCustomerChat
+          pageId="110112628383492"
+          appId="1131793937374832" />
       </div>
     </div>
   );
